@@ -1,0 +1,3 @@
+fix relationships between entities
+fix database schema
+implement crud operations
